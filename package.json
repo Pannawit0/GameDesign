@@ -1,0 +1,20 @@
+{
+	"name": "p5play-game-design",
+	"version": "1.0.0",
+	"description": "Neo's p5play projects",
+	"main": "sketch.js",
+	"scripts": {
+		"v": "npm version patch --force",
+		"V": "npm version minor --force",
+		"version": "git add -A",
+		"postversion": "git push"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@types/p5": "^1.7.0",
+		"p5": "^1.7.0",
+		"p5play": "^3.14.12",
+		"q5": "^1.4.4"
+	}
+}
