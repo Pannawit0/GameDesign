@@ -1,6 +1,6 @@
 {
 	"name": "p5play-game-design",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Neo's p5play projects",
 	"main": "sketch.js",
 	"scripts": {
@@ -12,9 +12,9 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"@types/p5": "^1.7.0",
-		"p5": "^1.7.0",
-		"p5play": "^3.14.12",
-		"q5": "^1.4.4"
+		"@types/p5": "^1.7.3",
+		"p5": "^1.8.0",
+		"p5play": "^3.16.4",
+		"q5": "^1.5.3"
 	}
 }

@@ -166,6 +166,7 @@ function draw(){
 
 	} else if (Alive == false && PlayerDie.frame == '10') { 
 		PlayerDie.stop();
+
 		Center_Scoreboard();
 	}	
 }
